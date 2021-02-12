@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\projectPrak-master\Net\bin\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master\Net\bin\Debug\NetSocket.pdb
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master\Net\obj\Debug\NetSocket.pdb
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\bin\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\bin\Debug\NetSocket.pdb
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\NetSocket.dll
+C:\Users\Admin\Desktop\projectPrak-master — копия\Net\obj\Debug\NetSocket.pdb
+C:\Users\1\Desktop\RsaDiff\Net\bin\Debug\NetSocket.dll
+C:\Users\1\Desktop\RsaDiff\Net\bin\Debug\NetSocket.pdb
+C:\Users\1\Desktop\RsaDiff\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\1\Desktop\RsaDiff\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\RsaDiff\Net\obj\Debug\NetSocket.dll
+C:\Users\1\Desktop\RsaDiff\Net\obj\Debug\NetSocket.pdb
+C:\Users\1\Desktop\Производственная практика\RSA and Diff\Net\bin\Debug\NetSocket.dll
+C:\Users\1\Desktop\Производственная практика\RSA and Diff\Net\bin\Debug\NetSocket.pdb
+C:\Users\1\Desktop\Производственная практика\RSA and Diff\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Производственная практика\RSA and Diff\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Производственная практика\RSA and Diff\Net\obj\Debug\NetSocket.dll
+C:\Users\1\Desktop\Производственная практика\RSA and Diff\Net\obj\Debug\NetSocket.pdb
